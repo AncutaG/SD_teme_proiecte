@@ -12,8 +12,8 @@ import random
 # '''
 #____________________________________________________________________________
 # #SORTAREA BUILT-IN, din Python
-# def timsort(x):
-#     return sorted(x);
+def timsort(x):
+    return sorted(x);
 
 # #_____________________________________________________________________________
 # #RADIX SORT (aplicabil in orice baza- var 1)--> are in spate un ocounting sort
