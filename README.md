@@ -8,7 +8,7 @@ Cuprinde o analiza succinta a timpilor de rulare (in cadrul diferitelor teste) p
 - Quick sort
 - Counting sort
 
-]Prezentare](https://www.canva.com/design/DAE7w4iX_Bs/I38hs-H8KL2JOOIgNC37Ww/view?utm_content=DAE7w4iX_Bs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Prezentare](https://www.canva.com/design/DAE7w4iX_Bs/I38hs-H8KL2JOOIgNC37Ww/view?utm_content=DAE7w4iX_Bs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
